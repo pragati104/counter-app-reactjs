@@ -1,0 +1,24 @@
+.counter {
+  margin-top: 300px;
+  text-align: center;
+}
+
+p {
+  font-size: 50px;
+}
+
+.btn {
+  font-size: 30px;
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
+
+.btn1 {
+  background-color: blue;
+}
+
+.btn2 {
+  background-color: red;
+}
